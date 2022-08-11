@@ -1093,9 +1093,6 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
-#b1,#b11 {
-	background-image: url('b1.png');
-}
 #b2,#b22 {
 	background-image: url('b2.png');
 }
@@ -1110,9 +1107,6 @@ audio {
 }
 #b6,#b66{
 	background-image: url('b6.png');
-}
-#b7,#b77{
-	background-image: url('b7.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
